@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 // https://leetcode.com/problems/product-of-array-except-self/discuss/65622/Simple-Java-solution-in-O(n)-without-extra-space
 // https://stackoverflow.com/questions/2680548/given-an-array-of-numbers-return-array-of-products-of-all-other-numbers-no-div?page=1&tab=oldest#tab-top
+// https://www.geeksforgeeks.org/a-product-array-puzzle/
 public class ProductOfArrayExceptSelf {
 
     public int[] productExceptSelfMyWay(int[] nums) {
